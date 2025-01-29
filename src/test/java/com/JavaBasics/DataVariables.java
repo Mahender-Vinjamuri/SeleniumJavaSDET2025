@@ -4,7 +4,7 @@ public class DataVariables {
 	
 	int a = 10;     //instance variable - declare inside the class but outside the method
 	char c = 'A';
-	static String str = "Aaradhya";  //static variable
+	static String str = "Madhuri";  //static variable
 	public int sum(int a, int b)
 	{
 	return a + b;
